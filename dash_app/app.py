@@ -13,8 +13,8 @@ app = dash.Dash(name='Bootstrap_docker_app',
 
 
 colors = {
-    'background': '#111111',
-    'text': '#7FDBFF'
+    'background': '#553311',
+    'text': '#113355'
 }
 
 app.layout = html.Div(style={'backgroundColor': colors['background']}, children=[
