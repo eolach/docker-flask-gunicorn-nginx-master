@@ -13,8 +13,8 @@ app = dash.Dash(name='Bootstrap_docker_app',
 
 
 colors = {
-    'background': '#553311',
-    'text': '#113355'
+    'background': '#FF3311',
+    'text': '#1133FF'
 }
 
 
